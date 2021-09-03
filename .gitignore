@@ -3,3 +3,18 @@
 ################################################################################
 
 /.vs
+/Rabbit-Consumer-Demo/.vs/Rabbit-Consumer-Demo
+/Rabbit-Consumer-Demo/DefaultExchangeApp/bin/Debug/netcoreapp3.1
+/Rabbit-Consumer-Demo/DefaultExchangeApp/obj
+/Rabbit-Consumer-Demo/DoNewTask/bin/Debug/netcoreapp3.1
+/Rabbit-Consumer-Demo/DoNewTask/obj
+/Rabbit-Consumer-Demo/PublisherConfirms/bin/Debug/netcoreapp3.1
+/Rabbit-Consumer-Demo/PublisherConfirms/obj
+/Rabbit-Consumer-Demo/ReceiveLogsDirect/bin/Debug/netcoreapp3.1
+/Rabbit-Consumer-Demo/ReceiveLogsDirect/obj
+/Rabbit-Consumer-Demo/ReceiveLogsFanout/bin/Debug/netcoreapp3.1
+/Rabbit-Consumer-Demo/ReceiveLogsFanout/obj
+/Rabbit-Consumer-Demo/ReceiveLogsTopic/bin/Debug/netcoreapp3.1
+/Rabbit-Consumer-Demo/ReceiveLogsTopic/obj
+/Rabbit-Consumer-Demo/RPC_APP/bin/Debug/netcoreapp3.1
+/Rabbit-Consumer-Demo/RPC_APP/obj
