@@ -5,5 +5,8 @@
   </PropertyGroup>
 	<ItemGroup>
 		<PackageReference Include="RabbitMQ.Client" Version="6.2.2" />
+		<PackageReference Include="Google.Protobuf" Version="3.17.3" />
+		<PackageReference Include="StackExchange.Redis" Version="2.2.4" />
+		<PackageReference Include="Pipelines.Sockets.Unofficial" Version="2.2.0" />
 	</ItemGroup>
 </Project>
