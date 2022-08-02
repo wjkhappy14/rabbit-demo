@@ -1,0 +1,2 @@
+protoc   -I=./   --js_out=./ ./FuturesQuoteData.proto
+protoc   -I=./   --js_out=import_style=commonjs,binary:. MessageBuilder.proto
